@@ -1,16 +1,15 @@
 import React from 'react'
 import Bio from '../components/Bio'
+import Footer from '../components/Footer'
 import Hero from '../components/Hero'
-import Nav from '../components/Nav'
 
 export default function HomePage() {
   return (
     <>
-    <div>HomePage</div>
-        <Nav />
-        <Hero />
-        <Bio />
-        
+      <h1>HomePage</h1>
+      <Hero />
+      <Bio />
+      <Footer />  
     </> 
   )
 }
