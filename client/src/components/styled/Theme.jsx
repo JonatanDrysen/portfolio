@@ -10,7 +10,9 @@ const mainTheme = {
     colors: {
         offBlack: "#2A2827",
         powderWhite: "#FFFDF9",
-        papayaWhip: "#ffefd5"
+        brownishGray: "#C8BDB2",
+        papayaWhip: "#FFEFD5",
+        paleBlue: "#D5E5FF",
     }
 }
 

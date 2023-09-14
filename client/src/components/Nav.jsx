@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { ReactComponent as Github } from "../utils/svgs/Github.svg"
-import { ReactComponent as LinkedIn } from "../utils/svgs/LinkedIn.svg"
+import { ReactComponent as Github } from "../icons/nav/Github.svg"
+import { ReactComponent as LinkedIn } from "../icons/nav/Linkedin.svg"
 
 import {
   NavbarContainer,
@@ -14,7 +14,6 @@ import {
   SocialsContainer,
   SocialsLink
 } from './styled/Nav.styled'
-import { Link } from 'react-router-dom'
 
 export default function Nav() {
   const logo = "</Jonatan-Drysén>"
