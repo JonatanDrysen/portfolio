@@ -1,0 +1,1 @@
+This is a work in progress (probably forever) simple portfolio project made with create-react-app & styled-components
